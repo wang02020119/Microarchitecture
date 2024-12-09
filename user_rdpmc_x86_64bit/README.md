@@ -1,7 +1,7 @@
 The user_rdpmc Linux Kernel Module
 ==================================
 
-更新自https://github.com/softdevteam/user_rdpmc.git，微调了一下，适应64bit系统。
+更新自 https://github.com/softdevteam/user_rdpmc.git  ，微调了一下，适应64bit系统。
 
 A simple Linux kernel module which, when loaded, allows ring 3 (userspace)
 programs to use the `RDPMC` assembler instruction by flipping the `PMC` flag in
